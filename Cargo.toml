@@ -1,0 +1,11 @@
+[package]
+name = "build-instructions"
+version = "0.1.0"
+description = "A utility crate for working with Cargo build instructions"
+authors = ["AlexSherb <alex.sherbinin.andr@gmail.com>"]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/AlexSherbinin/build_instructions"
+categories = ["development-tools::build-utils", "development-tools"]
+keywords = ["build-script", "cargo", "build"]
+edition = "2021"
